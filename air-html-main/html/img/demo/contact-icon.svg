@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>contact-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Footer" transform="translate(-964.000000, -86.000000)" stroke="#000000" stroke-width="1.2">
+            <g id="Group">
+                <g transform="translate(504.000000, 81.000000)">
+                    <g id="contact-icon" transform="translate(461.000000, 6.000000)">
+                        <path d="M10.9655832,6.02547846 C12.3448056,4.64706691 12.3448056,2.41222022 10.9655832,1.03380866 C9.58636069,-0.344602888 7.35019925,-0.344602888 5.97097679,1.03380866 L2,5.00245073 L2,10 L7.00048929,10 L10.9655832,6.02547846 Z" id="Shape"></path>
+                        <path d="M8,4 L0,12" id="Shape"></path>
+                        <path d="M9,8 L4,8" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
