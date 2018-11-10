@@ -1,0 +1,23 @@
+{
+  "name": "pf18",
+  "version": "1.0.0",
+  "description": "Annie Taran's website",
+  "main": "index.js",
+  "scripts": {
+    "start": "LOCAL_IP=`ipconfig getifaddr en0` && browser-sync start -s -f . --no-notify --host $LOCAL_IP --port 9000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitagb/pf18.git"
+  },
+  "author": "Annie Taran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aitagb/pf18/issues"
+  },
+  "homepage": "https://github.com/aitagb/pf18#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
