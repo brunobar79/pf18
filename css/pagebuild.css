@@ -1815,7 +1815,6 @@ h4.promote-big {
 .promote-mod.bg-theme-color-8:not([class*="promote-hover-bg-theme-color-"]):hover,
 .promote-mod.bg-theme-color-9:not([class*="promote-hover-bg-theme-color-"]):hover,
 .promote-mod.bg-theme-color-10:not([class*="promote-hover-bg-theme-color-"]):hover {
-	background-color: #fff;
 }
 .promote-mod.bg-theme-color-1:not([class*="promote-hover-bg-theme-color-"]):hover .promote-mod-a,
 .promote-mod.bg-theme-color-2:not([class*="promote-hover-bg-theme-color-"]):hover .promote-mod-a,
